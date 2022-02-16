@@ -1,1 +1,13 @@
+conda create --name project
+conda activate project
 
+
+
+
+
+
+
+
+
+
+deactivate
